@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![](https://visitcount.itsvg.in/api?id=qtkittyy&label=Profile%20Views&color=11&icon=3&pretty=true)](https://visitcount.itsvg.in)
-
 <!--
 **qtkittyy/qtkittyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
